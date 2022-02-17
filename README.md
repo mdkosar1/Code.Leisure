@@ -1,2 +1,2 @@
 # Code Leisure
-<p>My crazy projects in leisure time, also funny</p>
+<div>My crazy projects in leisure time, also funny</div>
